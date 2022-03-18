@@ -27,5 +27,6 @@ Agradecimento: Equipe Glue e aos professores Felipe e Rodrigo (STACK)
 
 ![image](https://user-images.githubusercontent.com/55503256/159093691-ea782872-ee7d-4d2f-ba76-da79c5f21d6e.png)
 
-![image](https://user-images.githubusercontent.com/55503256/159093877-3bd21fcb-0fee-4d7e-b803-62ad177070ca.png)
+![image](https://user-images.githubusercontent.com/55503256/159094459-c2190e90-ce73-4267-9f30-108c01e3fa48.png)
+
 
